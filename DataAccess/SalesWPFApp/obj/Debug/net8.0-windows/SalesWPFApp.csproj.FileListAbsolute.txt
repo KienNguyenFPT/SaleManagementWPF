@@ -1,0 +1,12 @@
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\SalesWPFApp.csproj.AssemblyReference.cache
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\WindowLogin.baml
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\WindowMain.baml
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\WindowLogin.g.cs
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\SalesWPFApp_MarkupCompile.cache
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\SalesWPFApp.g.resources
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\SalesWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\SalesWPFApp.AssemblyInfoInputs.cache
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\SalesWPFApp.AssemblyInfo.cs
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\SalesWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\SalesWPFApp\obj\Debug\net8.0-windows\SalesWPFApp.sourcelink.json

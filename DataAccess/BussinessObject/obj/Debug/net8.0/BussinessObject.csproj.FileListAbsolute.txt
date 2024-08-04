@@ -1,0 +1,13 @@
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\bin\Debug\net8.0\BussinessObject.deps.json
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\bin\Debug\net8.0\BussinessObject.dll
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\bin\Debug\net8.0\BussinessObject.pdb
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\obj\Debug\net8.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfoInputs.cache
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfo.cs
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\obj\Debug\net8.0\BussinessObject.sourcelink.json
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\obj\Debug\net8.0\BussinessObject.dll
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\obj\Debug\net8.0\refint\BussinessObject.dll
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\obj\Debug\net8.0\BussinessObject.pdb
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\obj\Debug\net8.0\ref\BussinessObject.dll
+C:\Users\Raiku\source\repos\Ass01Solution\DataAccess\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.AssemblyReference.cache

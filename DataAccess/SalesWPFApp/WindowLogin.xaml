@@ -1,0 +1,36 @@
+﻿<Window x:Class="SalesWPFApp.WindowLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="WindowLogin" Height="350" Width="600" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Account" HorizontalAlignment="Left" Margin="199,70,0,0" VerticalAlignment="Top" Height="36" Width="195" FontSize="20"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="198,152,0,0" VerticalAlignment="Top" Height="36" Width="196" FontSize="20"/>
+
+        <TextBox x:Name="txtId" HorizontalAlignment="Left" Margin="236,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="333" Height="27"
+                 Text="Enter your account..." Foreground="Gray" GotFocus="TxtId_GotFocus" LostFocus="TxtId_LostFocus" VerticalContentAlignment="Center"/>
+
+        <TextBox x:Name="txtPwPlaceholder" HorizontalAlignment="Left" Margin="236,193,0,0" VerticalAlignment="Top" Width="333" Height="27" 
+                 Text="Enter your password..." Foreground="Gray" IsReadOnly="True" Background="Transparent"
+                 GotFocus="txtPwPlaceholder_GotFocus" VerticalContentAlignment="Center"/>
+
+        <PasswordBox x:Name="txtPw" HorizontalAlignment="Left" Margin="236,193,0,0" VerticalAlignment="Top" Width="333" Height="27" 
+                     PasswordChanged="txtPw_PasswordChanged" LostFocus="txtPw_LostFocus" Visibility="Hidden" VerticalContentAlignment="Center"/>
+
+        <Label Content="Login to RY Sale App" HorizontalAlignment="Left" Height="47" Width="248" FontSize="24" VerticalAlignment="Top" Margin="260,13,0,0"/>
+        <Image HorizontalAlignment="Left" Height="300" Margin="22,0,0,0" VerticalAlignment="Center" Width="162" RenderTransformOrigin="0.5,0.5" Source="/tien-nghich_250x350.jpeg">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="12.978"/>
+                    <RotateTransform Angle="-7.573"/>
+                    <TranslateTransform Y="11.523"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button Content="Admin" HorizontalAlignment="Left" Margin="296,252,0,0" VerticalAlignment="Top" Width="80" Click="Button_Click"/>
+        <Button Content="Customer" HorizontalAlignment="Left" Margin="437,252,0,0" VerticalAlignment="Top" Width="80" Click="Button_Click_1"/>
+    </Grid>
+</Window>

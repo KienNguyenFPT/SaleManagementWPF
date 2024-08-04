@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\saleswpfapp\\windowlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|solutionrelative:saleswpfapp\\windowlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\saleswpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|solutionrelative:saleswpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\saleswpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|solutionrelative:saleswpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\dataaccess\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\dataaccess\\repository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\saleswpfapp\\windowlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|solutionrelative:saleswpfapp\\windowlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\saleswpfapp\\windowmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|solutionrelative:saleswpfapp\\windowmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\saleswpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5949907A-9B64-4C43-BF2C-9B19AEAF567E}|SalesWPFApp\\SalesWPFApp.csproj|solutionrelative:saleswpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67B679F-5810-4805-90D3-617A3EFE20C7}|BussinessObject\\BussinessObject.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\bussinessobject\\memberobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67B679F-5810-4805-90D3-617A3EFE20C7}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\memberobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67B679F-5810-4805-90D3-617A3EFE20C7}|BussinessObject\\BussinessObject.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\bussinessobject\\orderobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67B679F-5810-4805-90D3-617A3EFE20C7}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\orderobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67B679F-5810-4805-90D3-617A3EFE20C7}|BussinessObject\\BussinessObject.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\bussinessobject\\orderdetailobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67B679F-5810-4805-90D3-617A3EFE20C7}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\orderdetailobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\dataaccess\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\dataaccess\\repository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67B679F-5810-4805-90D3-617A3EFE20C7}|BussinessObject\\BussinessObject.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\bussinessobject\\productobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67B679F-5810-4805-90D3-617A3EFE20C7}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\productobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|c:\\users\\raiku\\source\\repos\\ass01solution\\dataaccess\\dataaccess\\repository\\memberrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488769D-97C4-40B1-827F-170B098DEBF9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\memberrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:50:46.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess\\appsettings.json",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\appsettings.json",
+              "RelativeToolTip": "DataAccess\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T02:13:15.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SalesWPFApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\App.xaml.cs",
+              "RelativeToolTip": "SalesWPFApp\\App.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:06:23.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "SalesWPFApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\App.xaml",
+              "RelativeToolTip": "SalesWPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-12T18:06:17.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowLogin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\WindowLogin.xaml.cs",
+              "RelativeDocumentMoniker": "SalesWPFApp\\WindowLogin.xaml.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\WindowLogin.xaml.cs",
+              "RelativeToolTip": "SalesWPFApp\\WindowLogin.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:23:17.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\MemberDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\MemberDAO.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\MemberDAO.cs",
+              "RelativeToolTip": "DataAccess\\MemberDAO.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAkwOoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:35:24.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\Repository\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\Repository\\IMemberRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IMemberRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBEAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:37:27.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WindowLogin.xaml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\WindowLogin.xaml",
+              "RelativeDocumentMoniker": "SalesWPFApp\\WindowLogin.xaml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\WindowLogin.xaml",
+              "RelativeToolTip": "SalesWPFApp\\WindowLogin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-12T13:45:45.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WindowMain.xaml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\WindowMain.xaml",
+              "RelativeDocumentMoniker": "SalesWPFApp\\WindowMain.xaml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\WindowMain.xaml",
+              "RelativeToolTip": "SalesWPFApp\\WindowMain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T00:17:30.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\OrderDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderDetailDAO.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\OrderDetailDAO.cs",
+              "RelativeToolTip": "DataAccess\\OrderDetailDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:07:25.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemberObject.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\BussinessObject\\MemberObject.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\MemberObject.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\BussinessObject\\MemberObject.cs",
+              "RelativeToolTip": "BussinessObject\\MemberObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:54:34.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SalesWPFApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\SalesWPFApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "SalesWPFApp\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T01:54:05.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderObject.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\BussinessObject\\OrderObject.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\OrderObject.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\BussinessObject\\OrderObject.cs",
+              "RelativeToolTip": "BussinessObject\\OrderObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:54:36.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDetailObject.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\BussinessObject\\OrderDetailObject.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\OrderDetailObject.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\BussinessObject\\OrderDetailObject.cs",
+              "RelativeToolTip": "BussinessObject\\OrderDetailObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:57:37.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderDAO.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccess\\OrderDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:58:40.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccess\\ProductDAO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:00:52.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\Repository\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\Repository\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:15:06.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MemberRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\Repository\\MemberRespository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\MemberRespository.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\Repository\\MemberRespository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\MemberRespository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA0wCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:30:48.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductObject.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\BussinessObject\\ProductObject.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\ProductObject.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\BussinessObject\\ProductObject.cs",
+              "RelativeToolTip": "BussinessObject\\ProductObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:44:20.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:43:56.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\Ass01Solution\\DataAccess\\DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:43:30.095Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
